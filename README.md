@@ -8,11 +8,11 @@ Self-motivated, with a logic-oriented thinking inside a curious mind. Enthusiast
 
 Seeking to expand skills in collaboration, communication, and leadership, in addition to improving engineering expertise.
 
----
+<br/>
 
 [![Daniel Dias' GitHub stats](https://github-readme-stats.vercel.app/api?username=dabadias&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/dabadias)
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
