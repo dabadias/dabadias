@@ -32,7 +32,7 @@ Seeking to expand skills in collaboration, communication, and leadership, in add
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
 
-<br>
+<br/>
 
 ## Connect with me 😉
 
@@ -40,6 +40,14 @@ Seeking to expand skills in collaboration, communication, and leadership, in add
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ab-dias/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dabadias)
 
+<br/>
+
 ----
 
+<br/>
+
+## Widgets
+
 [![Daniel Dias' GitHub stats](https://github-readme-stats.vercel.app/api?username=dabadias&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/dabadias)
+
+![Snake animation](https://github.com/dabadias/dabadias/blob/output/github-contribution-grid-snake.svg)
