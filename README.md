@@ -48,6 +48,9 @@ Seeking to expand skills in collaboration, communication, and leadership, in add
 
 ## Widgets
 
+##### (Does not include private repositories)
+
 [![Daniel Dias' GitHub stats](https://github-readme-stats.vercel.app/api?username=dabadias&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/dabadias)
+
 
 ![Snake animation](https://github.com/dabadias/dabadias/blob/output/github-contribution-grid-snake.svg)
