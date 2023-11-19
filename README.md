@@ -2,6 +2,7 @@
 
 <a href="#"><img width="250" align='right' style="border-radius:25px; margin-left:25px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></a>
 
+<!--
 ## Personal Statement
 
 Finalist MSc. student in Computer Science with real-world experience inmedium-scale software design and development, agile methodologies,and direct contact with customers.
@@ -9,6 +10,11 @@ Finalist MSc. student in Computer Science with real-world experience inmedium-sc
 Self-motivated, with a logic-oriented thinking inside a curious mind. Enthusiastic about challenge-based approaches to learning and a genuine interest in technology.
 
 <br/>
+-->
+
+## Temporary Statement
+
+This page is outdated ⚠️
 
 ## Main programming languages and frameworks
 
@@ -34,7 +40,7 @@ Self-motivated, with a logic-oriented thinking inside a curious mind. Enthusiast
 
 ## Connect with me 😉
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daba.dias@campus.fct.unl.pt)
+[![Proton](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dabadias@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ab-dias/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dabadias)
 
