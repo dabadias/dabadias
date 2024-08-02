@@ -41,18 +41,3 @@ This page is outdated ⚠️
 [![Proton](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dabadias@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ab-dias/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dabadias)
-
-<br/>
-
-----
-
-<br/>
-
-## Widgets
-
-##### (Does not include private repositories)
-
-[![Daniel Dias' GitHub stats](https://github-readme-stats.vercel.app/api?username=dabadias&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/dabadias)
-
-
-![Snake animation](https://github.com/dabadias/dabadias/blob/output/github-contribution-grid-snake.svg)
